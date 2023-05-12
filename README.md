@@ -1,8 +1,8 @@
-# [Vue Soft UI Dashboard PRO](http://demos.creative-tim.com/vue-soft-ui-dashboard-pro/?ref=readme-vsudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-soft-ui-dashboard-pro&text=Check%20Vue%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#vue%20https://www.creative-tim.com/product/vue-soft-ui-dashboard-pro)
+# [Vue Soft UI Dashboard PRO Laravel](https://vue-soft-ui-dashboard-pro-laravel.creative-tim.com/dashboards/dashboard-default?ref=readme-vsudp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-soft-ui-dashboard-pro&text=Check%20Vue%20Soft%20UI%20Dashboard%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#vue%20https://www.creative-tim.com/product/vue-soft-ui-dashboard-pro)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-soft-ui-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vue-soft-ui-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/589/original/vue-soft-ui-dashboard-pro.jpg)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/734/original/vue-soft-ui-dashboard-pro-laravel.jpg?1683202411)
 
 What if you could go from frontend to fullstack in an instant when building your app? We partnered with [UPDIVISION](https://updivision.com) to bring you Vue Soft UI Dashboard PRO Laravel, the ultimate fullstack resource. Vue Soft UI Dashboard PRO Laravel comes not only with a huge number of UI components and a Vue frontend, but also with an API-powered Laravel backend.
 
